@@ -96,4 +96,4 @@ Transactions are demonstrated using START TRANSACTION, ROLLBACK and COMMIT conce
 
 ## 10. Conclusion
 
-This project demonstrates the design and implementation of a relational hospital database using SQL. It applies database relationships, querying techniques, stored procedures, triggers and security concepts to a practical healthcare scenario.# Crownfield-Eye-Hospital-Database
+This project demonstrates the design and implementation of a relational hospital database using SQL. It applies database relationships, querying techniques, stored procedures, triggers and security concepts to a practical healthcare scenario
