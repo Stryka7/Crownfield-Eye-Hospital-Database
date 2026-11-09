@@ -1,4 +1,4 @@
-  a.appointment_id,
+   a.appointment_id,
     a.appointment_date,
     a.appointment_status
 FROM Patients p
